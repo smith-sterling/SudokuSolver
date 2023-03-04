@@ -1,1 +1,2 @@
 # SudokuSolver
+This is just a simple recursive Sudoku solver. It is a bit annoying to set up because you have to manually type in every number (I recommend putting things in 9 numbers at a time and pressing enter in between), but I added things so you can check a specific square contains a specific number or just tells you what it is, and you can ask to see the board so far based on the things that it has told you or just ask for the solution, although I'm sure the back of whatever book you're using probably has the solution there, but hey, it was fun to program
