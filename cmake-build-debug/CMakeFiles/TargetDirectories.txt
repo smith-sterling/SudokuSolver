@@ -1,0 +1,3 @@
+/Users/sterlite/CLionProjects/SudokuSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sterlite/CLionProjects/SudokuSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sterlite/CLionProjects/SudokuSolver/cmake-build-debug/CMakeFiles/SudokuSolver.dir
